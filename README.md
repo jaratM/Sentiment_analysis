@@ -1,7 +1,7 @@
 # Analysing twitter data about specific topics using NLP techniques
 
-In this work, we use machine learning approach and natural language processing techniques to understand the patterns and characteristics of tweets and predict the sentiment they carry. Specifically, we build a model that can classify a tweet as either positive or negative based on the sentiments it reverts. We decided to use two classes in order to accommodate the complexity of the problem and is consistent with ongoing research and applications in the field. 
-Using our sentiment predictor, we also build an interactive visualization tool to help businesses interpret and visualize public sentiments for their product and brands. This tool enables the user to not only visualize plain sentiment distribution over the entire dataset, but also equips user to conduct sentiment analysis over the dimension of time and location.
+In this pro, we use we use state-of-the-art methods in NLP and processing techniques to understand the patterns and characteristics of tweets and predict the sentiment they carry. Specifically, we build a model that can classify a tweet as either positive or negative based on the sentiments it reverts. We decided to use two classes in order to accommodate the complexity of the problem and its consistent with ongoing research and applications in the field. 
+Using our sentiment predictor, we also built an interactive visualization tool to help businesses interpret and visualize public sentiments for their product and brands. This tool enables the user to not only visualize plain sentiment distribution over the entire dataset, but also equips user to conduct sentiment analysis over the dimension of time and location.
 
 ## Prerequisites
 for the notebook and the application both requisites are documented on the files head.
@@ -22,4 +22,4 @@ By default, flask will run on port 5000.
 
 3 - Navigate to URL http://localhost:5000
 
-4 - fill in the form and if everything go well, four figures must be on your screen.
+4 - fill in the form and if everything goes well, four figures must be on your screen.
